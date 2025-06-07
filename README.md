@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ##### Skill I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,figma,tailwind,react,laravel,linux,&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,figma,tailwind,react,laravel,linux,&theme=dark&)](https://skillicons.dev)
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExampzODM3ajk1cWgwNzE5eXlzd3JmMWZibWVlbzhnb3Vob2dtdWZ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/njH4f6IJ38WnB1L17F/giphy.gif" alt="tes" width="300"/>
+  <img src="https://media.giphy.com/media/njH4f6IJ38WnB1L17F/giphy.gif" alt="tes" width="300"/>
 </p>
