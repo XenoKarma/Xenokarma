@@ -1,6 +1,6 @@
 ## Hello World!
 
-![AndikaPurnama](img/github-header-image%204.png)
+![AndikaPurnama](img/github-header-image%20utama.png)
 
 <!--
 **XenoKarma/Xenokarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
