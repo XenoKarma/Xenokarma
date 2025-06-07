@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,figma,tailwind,react,laravel,linux,&theme=dark&)](https://skillicons.dev)
 
 <p align="center">
-  <img src="img/Zetsubou.gif" alt="Andika" width="100%" />
+  <img src="img/download.gif" alt="Andika" width="100%" />
 </p>
