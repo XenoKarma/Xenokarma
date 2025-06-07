@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello World!
 
-![AndikaPurnama](img/Cat%20Pixel%20Sticker%20-%20Find%20&%20Share%20on%20GIPHY.gif)
+![AndikaPurnama](img/github-header-image.png)
 
 <!--
 **XenoKarma/Xenokarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 -->
 
 - 📖 I’m currently learning [**Laravel**](https://laravel.com) Framework
-
-![LH44](https://i.pinimg.com/736x/87/ad/e8/87ade88b847fab1d74b0fe12289f8833.jpg)
