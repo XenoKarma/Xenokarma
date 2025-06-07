@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ##### Skills I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,figma,tailwind,react,laravel,linux,&theme=dark&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,figma,tailwind,react,laravel,linux,vscode&theme=dark)](https://skillicons.dev)
 
 <p align="center">
   <img src="img/Cat Pixel Sticker - Find & Share on GIPHY (1).gif" alt="Andika" width="40%" />
